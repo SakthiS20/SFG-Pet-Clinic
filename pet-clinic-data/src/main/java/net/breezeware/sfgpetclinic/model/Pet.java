@@ -1,4 +1,4 @@
- package net.breezeware.pet_clinic_data.model;
+ package net.breezeware.sfgpetclinic.model;
 
 import java.time.LocalDate;
 

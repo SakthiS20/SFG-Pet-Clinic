@@ -1,4 +1,4 @@
-package net.breezeware.pet_clinic_data;
+package net.breezeware.sfgpetclinic;
 
 /**
  * Hello world!
