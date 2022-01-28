@@ -4,11 +4,11 @@
   <parent>
     <groupId>net.breezeware</groupId>
     <artifactId>sfg-petclinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
   <groupId>net.breezeware</groupId>
   <artifactId>pet-clinic-data</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>pet-clinic-data</name>
   <url>http://maven.apache.org</url>
   <properties>
