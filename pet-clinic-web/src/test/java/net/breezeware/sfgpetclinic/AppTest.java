@@ -1,4 +1,4 @@
-package net.breezeware.web;
+package net.breezeware.sfgpetclinic;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

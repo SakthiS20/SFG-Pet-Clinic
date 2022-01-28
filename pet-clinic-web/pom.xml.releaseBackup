@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>net.breezeware</groupId>
     <artifactId>sfg-petclinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>net.breezeware</groupId>
   <artifactId>pet-clinic-web</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>pet-clinic-web</name>
   <url>http://maven.apache.org</url>
   <properties>
@@ -18,7 +19,7 @@
   	<dependency>
   		<groupId>net.breezeware</groupId>
   		<artifactId>pet-clinic-data</artifactId>
-  		<version>0.0.2-SNAPSHOT</version>
+  		<version>0.0.1-SNAPSHOT</version>
   	</dependency>
   	<dependency>
 		<groupId>org.springframework.boot</groupId>
