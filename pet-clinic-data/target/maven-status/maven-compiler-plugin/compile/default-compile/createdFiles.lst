@@ -1,0 +1,6 @@
+net/breezeware/pet_clinic_data/model/Person.class
+net/breezeware/pet_clinic_data/model/Vet.class
+net/breezeware/pet_clinic_data/model/Owner.class
+net/breezeware/pet_clinic_data/model/Pet.class
+net/breezeware/pet_clinic_data/model/PetType.class
+net/breezeware/pet_clinic_data/App.class
